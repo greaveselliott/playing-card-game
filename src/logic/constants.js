@@ -1,0 +1,5 @@
+export const DRAW_INCREMENT = "DRAW_INCREMENT";
+export const DRAW_DECREMENT = "DRAW_DECREMENT";
+export const DRAW_CARDS = "DRAW_CARDS";
+export const SORT_CARDS = "SORT_CARDS";
+export const SHUFFLE_DECK = "SHUFFLE_DECK";
