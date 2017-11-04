@@ -1,0 +1,60 @@
+@import './variables';
+
+.app {
+  background: #2d9cdb; /* Old browsers */
+  background: -moz-radial-gradient(center, ellipse cover,  #2d9cdb 0%, #5abef7 100%); /* FF3.6-15 */
+  background: -webkit-radial-gradient(center, ellipse cover,  #2d9cdb 0%,#5abef7 100%); /* Chrome10-25,Safari5.1-6 */
+  background: radial-gradient(ellipse at center,  #2d9cdb 0%,#5abef7 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2d9cdb', endColorstr='#5abef7',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+  display: block;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  padding-left: 250px;
+
+  @media (max-width: map-get($media-query, 'medium')) {
+    padding-left: 0;
+    padding-top: 80px;
+  }
+
+  &__sidebar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: white;
+    width: 250px;
+    z-index: 1;
+    height: 100%;
+
+    @media (max-width: map-get($media-query, 'medium')) {
+      width: 100%;
+      height: 80px;
+      white-space: nowrap;
+    }
+  }
+
+  &__main {
+    display: block;
+    height: 100%;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }  
+}
+
+
+[class*="__layer"]{
+  height: 100%;
+  padding-left: 25px;
+  padding-right: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  transition: transform 330ms ease-out;
+
+  &[class*="--inactive"] {
+    transform: translateY(-100%);
+  }
+}
