@@ -3,8 +3,7 @@ import { Provider } from 'react-redux';
 import configureStore from './redux/store';
 import './app.scss';
 import Notification from './components/notification';
-import Deck from './components/deck';
-import Hand from './components/hand';
+import { Deck, Hand } from './components/card-collection';
 import Controls from './components/controls';
 import Modernizr from 'modernizr';
 
@@ -15,10 +14,9 @@ class App extends Component {
     return (
       <Provider store={store}>
           <div className="l-app">
-            <Notification class_name="l-app__notification"/>
             <main className="l-app__main">
-                <Deck/>
-                <Hand/>
+                <Deck heading="Deck"/>
+                <Hand heading="Hand"/>
                 <Controls/>
             </main>
           </div>
