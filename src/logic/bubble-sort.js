@@ -3,6 +3,7 @@ const bubble_sort = (array, key) => {
     do {
         swapped = false;
         for (var i=0; i < array.length-1; i++) {
+
             if (array[i][key] > array[i+1][key]) {
                 var cached_index = array[i];
                 array[i] = array[i+1];

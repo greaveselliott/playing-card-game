@@ -4,7 +4,6 @@ import configureStore from './redux/store';
 import './app.scss';
 import { Deck, Hand } from './components/card-collection';
 import Controls from './components/controls';
-import Modernizr from 'modernizr';
 
 const store = configureStore();
 

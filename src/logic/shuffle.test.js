@@ -1,0 +1,10 @@
+import shuffle from './shuffle';
+
+describe('Shuffle', () => {
+    it('Should shuffle cards.', () => {
+        const mock = [{id:29,suit:'Hearts',number:'5'},{id:37,suit:'Hearts',number:'K'},{id:28,suit:'Hearts',number:'4'},{id:46,suit:'Diamonds',number:'9'},{id:15,suit:'Spades',number:'4'},{id:19,suit:'Spades',number:'8'},{id:45,suit:'Diamonds',number:'8'},{id:16,suit:'Spades',number:'5'},{id:25,suit:'Spades',number:'A'},{id:18,suit:'Spades',number:'7'},{id:48,suit:'Diamonds',number:'J'},{id:33,suit:'Hearts',number:'9'},{id:39,suit:'Diamonds',number:'2'},{id:0,suit:'Clubs',number:'2'},{id:26,suit:'Hearts',number:'2'},{id:49,suit:'Diamonds',number:'Q'},{id:23,suit:'Spades',number:'Q'},{id:50,suit:'Diamonds',number:'K'},{id:40,suit:'Diamonds',number:'3'},{id:34,suit:'Hearts',number:'10'},{id:22,suit:'Spades',number:'J'},{id:38,suit:'Hearts',number:'A'},{id:11,suit:'Clubs',number:'K'},{id:13,suit:'Spades',number:'2'},{id:1,suit:'Clubs',number:'3'},{id:30,suit:'Hearts',number:'6'},{id:4,suit:'Clubs',number:'6'},{id:42,suit:'Diamonds',number:'5'},{id:7,suit:'Clubs',number:'9'},{id:6,suit:'Clubs',number:'8'},{id:17,suit:'Spades',number:'6'},{id:32,suit:'Hearts',number:'8'},{id:9,suit:'Clubs',number:'J'},{id:8,suit:'Clubs',number:'10'},{id:20,suit:'Spades',number:'9'},{id:5,suit:'Clubs',number:'7'},{id:51,suit:'Diamonds',number:'A'},{id:36,suit:'Hearts',number:'Q'},{id:27,suit:'Hearts',number:'3'},{id:21,suit:'Spades',number:'10'},{id:10,suit:'Clubs',number:'Q'},{id:31,suit:'Hearts',number:'7'},{id:43,suit:'Diamonds',number:'6'},{id:12,suit:'Clubs',number:'A'},{id:44,suit:'Diamonds',number:'7'},{id:35,suit:'Hearts',number:'J'},{id:2,suit:'Clubs',number:'4'},{id:41,suit:'Diamonds',number:'4'},{id:24,suit:'Spades',number:'K'},{id:47,suit:'Diamonds',number:'10'},{id:14,suit:'Spades',number:'3'},{id:3,suit:'Clubs',number:'5'}];
+        const shuffled_cards = shuffle(mock);
+
+        expect(shuffle).not.toEqual(mock);
+    });
+});
