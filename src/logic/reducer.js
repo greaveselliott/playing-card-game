@@ -13,6 +13,7 @@ export const initial_state = {
 const reducers = (state = initial_state, action) => {
   switch (_.get(action, 'type', undefined)) {
 
+
     case CONSTANTS.DRAW_INCREMENT:
 
       return Object.assign({}, state, {
@@ -47,6 +48,14 @@ const reducers = (state = initial_state, action) => {
     case CONSTANTS.SORT_CARDS:
       return Object.assign({}, state, {
         hand: bubble_sort(state.hand.slice(), "id")
+      });
+
+    case CONSTANTS.SHUFFLE_HAND:
+
+      return Object.assign({}, state, {
+        cards_drawing: 1,
+        deck: [...state.deck, ...state.hand],
+        hand: []
       });
 
     default:

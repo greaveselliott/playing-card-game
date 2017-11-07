@@ -29,3 +29,9 @@ export const shuffle_deck = () => {
         type: CONSTANTS.SHUFFLE_DECK
     }
 };
+
+export const shuffle_hand = () => {
+    return {
+        type: CONSTANTS.SHUFFLE_HAND
+    }
+};

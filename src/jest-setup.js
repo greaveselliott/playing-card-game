@@ -16,12 +16,13 @@ console.error = message => {
  * @param enzymeRender {function} render function.
  * @param Component {JSXComponent} component type to mock.
  * @param componentProps {Object} optional component properties.
+ * @param reduxStoreContext {Object} optional redux store context.
  * @returns Enzyme Component.
  */
-global.mockComponent = function (enzymeRender, Component, componentProps = {}) {
+global.mockComponent = function (enzymeRender, Component, componentProps = {}, reduxStoreContext = {}) {
 
     let jsxElement = <Component {...componentProps} />;
-    const enzymeComponent = enzymeRender(jsxElement);
+    const enzymeComponent = enzymeRender(jsxElement, reduxStoreContext);
 
     return {
         componentProps,
