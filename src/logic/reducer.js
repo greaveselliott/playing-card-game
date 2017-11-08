@@ -30,8 +30,8 @@ const reducers = (state = initial_state, action) => {
       let remaining_cards = state.deck.slice();
       let drawn_cards = [];
 
-      for (var i = 0, card_index = remaining_cards.length; i < state.cards_drawing; i++, card_index--) {
-          drawn_cards.push(remaining_cards.pop(card_index));
+      for (var i = 0; i < state.cards_drawing; i++) {
+          drawn_cards.push(remaining_cards.pop());
       }
       
       return Object.assign({}, state, {
