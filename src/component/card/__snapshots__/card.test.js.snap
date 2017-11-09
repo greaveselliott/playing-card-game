@@ -1,0 +1,6293 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card component Should render a Card component with a value of 2 of Clubs. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--clubs"
+    >
+        2
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Clubs"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--clubs"
+      >
+            2
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Clubs"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="2"
+        suit="Clubs"
+/>,
+      "_debugID": 1,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "2",
+          "suit": "Clubs",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 1,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--clubs"
+          >
+                    2
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Clubs"
+          />
+</figure>,
+        "_debugID": 2,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--clubs"
+          >
+                    2
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Clubs"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="2"
+    suit="Clubs"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of 2 of Diamonds. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--diamonds"
+    >
+        2
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Diamonds"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--diamonds"
+      >
+            2
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Diamonds"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="2"
+        suit="Diamonds"
+/>,
+      "_debugID": 79,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "2",
+          "suit": "Diamonds",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 40,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--diamonds"
+          >
+                    2
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Diamonds"
+          />
+</figure>,
+        "_debugID": 80,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--diamonds"
+          >
+                    2
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Diamonds"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="2"
+    suit="Diamonds"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of 2 of Hearts. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--hearts"
+    >
+        2
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Hearts"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--hearts"
+      >
+            2
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Hearts"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="2"
+        suit="Hearts"
+/>,
+      "_debugID": 53,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "2",
+          "suit": "Hearts",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 27,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--hearts"
+          >
+                    2
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Hearts"
+          />
+</figure>,
+        "_debugID": 54,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--hearts"
+          >
+                    2
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Hearts"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="2"
+    suit="Hearts"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of 2 of Spades. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--spades"
+    >
+        2
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Spades"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--spades"
+      >
+            2
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Spades"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="2"
+        suit="Spades"
+/>,
+      "_debugID": 27,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "2",
+          "suit": "Spades",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 14,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--spades"
+          >
+                    2
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Spades"
+          />
+</figure>,
+        "_debugID": 28,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--spades"
+          >
+                    2
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Spades"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="2"
+    suit="Spades"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of 3 of Clubs. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--clubs"
+    >
+        3
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Clubs"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--clubs"
+      >
+            3
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Clubs"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="3"
+        suit="Clubs"
+/>,
+      "_debugID": 3,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "3",
+          "suit": "Clubs",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 2,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--clubs"
+          >
+                    3
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Clubs"
+          />
+</figure>,
+        "_debugID": 4,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--clubs"
+          >
+                    3
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Clubs"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="3"
+    suit="Clubs"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of 3 of Diamonds. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--diamonds"
+    >
+        3
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Diamonds"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--diamonds"
+      >
+            3
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Diamonds"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="3"
+        suit="Diamonds"
+/>,
+      "_debugID": 81,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "3",
+          "suit": "Diamonds",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 41,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--diamonds"
+          >
+                    3
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Diamonds"
+          />
+</figure>,
+        "_debugID": 82,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--diamonds"
+          >
+                    3
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Diamonds"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="3"
+    suit="Diamonds"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of 3 of Hearts. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--hearts"
+    >
+        3
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Hearts"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--hearts"
+      >
+            3
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Hearts"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="3"
+        suit="Hearts"
+/>,
+      "_debugID": 55,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "3",
+          "suit": "Hearts",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 28,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--hearts"
+          >
+                    3
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Hearts"
+          />
+</figure>,
+        "_debugID": 56,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--hearts"
+          >
+                    3
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Hearts"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="3"
+    suit="Hearts"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of 3 of Spades. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--spades"
+    >
+        3
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Spades"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--spades"
+      >
+            3
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Spades"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="3"
+        suit="Spades"
+/>,
+      "_debugID": 29,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "3",
+          "suit": "Spades",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 15,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--spades"
+          >
+                    3
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Spades"
+          />
+</figure>,
+        "_debugID": 30,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--spades"
+          >
+                    3
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Spades"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="3"
+    suit="Spades"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of 4 of Clubs. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--clubs"
+    >
+        4
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Clubs"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--clubs"
+      >
+            4
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Clubs"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="4"
+        suit="Clubs"
+/>,
+      "_debugID": 5,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "4",
+          "suit": "Clubs",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 3,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--clubs"
+          >
+                    4
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Clubs"
+          />
+</figure>,
+        "_debugID": 6,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--clubs"
+          >
+                    4
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Clubs"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="4"
+    suit="Clubs"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of 4 of Diamonds. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--diamonds"
+    >
+        4
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Diamonds"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--diamonds"
+      >
+            4
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Diamonds"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="4"
+        suit="Diamonds"
+/>,
+      "_debugID": 83,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "4",
+          "suit": "Diamonds",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 42,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--diamonds"
+          >
+                    4
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Diamonds"
+          />
+</figure>,
+        "_debugID": 84,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--diamonds"
+          >
+                    4
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Diamonds"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="4"
+    suit="Diamonds"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of 4 of Hearts. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--hearts"
+    >
+        4
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Hearts"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--hearts"
+      >
+            4
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Hearts"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="4"
+        suit="Hearts"
+/>,
+      "_debugID": 57,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "4",
+          "suit": "Hearts",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 29,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--hearts"
+          >
+                    4
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Hearts"
+          />
+</figure>,
+        "_debugID": 58,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--hearts"
+          >
+                    4
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Hearts"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="4"
+    suit="Hearts"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of 4 of Spades. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--spades"
+    >
+        4
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Spades"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--spades"
+      >
+            4
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Spades"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="4"
+        suit="Spades"
+/>,
+      "_debugID": 31,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "4",
+          "suit": "Spades",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 16,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--spades"
+          >
+                    4
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Spades"
+          />
+</figure>,
+        "_debugID": 32,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--spades"
+          >
+                    4
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Spades"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="4"
+    suit="Spades"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of 5 of Clubs. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--clubs"
+    >
+        5
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Clubs"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--clubs"
+      >
+            5
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Clubs"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="5"
+        suit="Clubs"
+/>,
+      "_debugID": 7,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "5",
+          "suit": "Clubs",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 4,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--clubs"
+          >
+                    5
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Clubs"
+          />
+</figure>,
+        "_debugID": 8,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--clubs"
+          >
+                    5
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Clubs"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="5"
+    suit="Clubs"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of 5 of Diamonds. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--diamonds"
+    >
+        5
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Diamonds"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--diamonds"
+      >
+            5
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Diamonds"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="5"
+        suit="Diamonds"
+/>,
+      "_debugID": 85,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "5",
+          "suit": "Diamonds",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 43,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--diamonds"
+          >
+                    5
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Diamonds"
+          />
+</figure>,
+        "_debugID": 86,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--diamonds"
+          >
+                    5
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Diamonds"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="5"
+    suit="Diamonds"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of 5 of Hearts. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--hearts"
+    >
+        5
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Hearts"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--hearts"
+      >
+            5
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Hearts"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="5"
+        suit="Hearts"
+/>,
+      "_debugID": 59,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "5",
+          "suit": "Hearts",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 30,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--hearts"
+          >
+                    5
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Hearts"
+          />
+</figure>,
+        "_debugID": 60,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--hearts"
+          >
+                    5
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Hearts"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="5"
+    suit="Hearts"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of 5 of Spades. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--spades"
+    >
+        5
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Spades"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--spades"
+      >
+            5
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Spades"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="5"
+        suit="Spades"
+/>,
+      "_debugID": 33,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "5",
+          "suit": "Spades",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 17,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--spades"
+          >
+                    5
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Spades"
+          />
+</figure>,
+        "_debugID": 34,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--spades"
+          >
+                    5
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Spades"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="5"
+    suit="Spades"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of 6 of Clubs. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--clubs"
+    >
+        6
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Clubs"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--clubs"
+      >
+            6
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Clubs"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="6"
+        suit="Clubs"
+/>,
+      "_debugID": 9,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "6",
+          "suit": "Clubs",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 5,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--clubs"
+          >
+                    6
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Clubs"
+          />
+</figure>,
+        "_debugID": 10,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--clubs"
+          >
+                    6
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Clubs"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="6"
+    suit="Clubs"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of 6 of Diamonds. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--diamonds"
+    >
+        6
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Diamonds"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--diamonds"
+      >
+            6
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Diamonds"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="6"
+        suit="Diamonds"
+/>,
+      "_debugID": 87,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "6",
+          "suit": "Diamonds",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 44,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--diamonds"
+          >
+                    6
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Diamonds"
+          />
+</figure>,
+        "_debugID": 88,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--diamonds"
+          >
+                    6
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Diamonds"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="6"
+    suit="Diamonds"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of 6 of Hearts. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--hearts"
+    >
+        6
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Hearts"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--hearts"
+      >
+            6
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Hearts"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="6"
+        suit="Hearts"
+/>,
+      "_debugID": 61,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "6",
+          "suit": "Hearts",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 31,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--hearts"
+          >
+                    6
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Hearts"
+          />
+</figure>,
+        "_debugID": 62,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--hearts"
+          >
+                    6
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Hearts"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="6"
+    suit="Hearts"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of 6 of Spades. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--spades"
+    >
+        6
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Spades"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--spades"
+      >
+            6
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Spades"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="6"
+        suit="Spades"
+/>,
+      "_debugID": 35,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "6",
+          "suit": "Spades",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 18,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--spades"
+          >
+                    6
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Spades"
+          />
+</figure>,
+        "_debugID": 36,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--spades"
+          >
+                    6
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Spades"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="6"
+    suit="Spades"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of 7 of Clubs. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--clubs"
+    >
+        7
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Clubs"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--clubs"
+      >
+            7
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Clubs"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="7"
+        suit="Clubs"
+/>,
+      "_debugID": 11,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "7",
+          "suit": "Clubs",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 6,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--clubs"
+          >
+                    7
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Clubs"
+          />
+</figure>,
+        "_debugID": 12,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--clubs"
+          >
+                    7
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Clubs"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="7"
+    suit="Clubs"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of 7 of Diamonds. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--diamonds"
+    >
+        7
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Diamonds"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--diamonds"
+      >
+            7
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Diamonds"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="7"
+        suit="Diamonds"
+/>,
+      "_debugID": 89,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "7",
+          "suit": "Diamonds",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 45,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--diamonds"
+          >
+                    7
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Diamonds"
+          />
+</figure>,
+        "_debugID": 90,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--diamonds"
+          >
+                    7
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Diamonds"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="7"
+    suit="Diamonds"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of 7 of Hearts. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--hearts"
+    >
+        7
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Hearts"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--hearts"
+      >
+            7
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Hearts"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="7"
+        suit="Hearts"
+/>,
+      "_debugID": 63,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "7",
+          "suit": "Hearts",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 32,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--hearts"
+          >
+                    7
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Hearts"
+          />
+</figure>,
+        "_debugID": 64,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--hearts"
+          >
+                    7
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Hearts"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="7"
+    suit="Hearts"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of 7 of Spades. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--spades"
+    >
+        7
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Spades"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--spades"
+      >
+            7
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Spades"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="7"
+        suit="Spades"
+/>,
+      "_debugID": 37,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "7",
+          "suit": "Spades",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 19,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--spades"
+          >
+                    7
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Spades"
+          />
+</figure>,
+        "_debugID": 38,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--spades"
+          >
+                    7
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Spades"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="7"
+    suit="Spades"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of 8 of Clubs. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--clubs"
+    >
+        8
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Clubs"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--clubs"
+      >
+            8
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Clubs"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="8"
+        suit="Clubs"
+/>,
+      "_debugID": 13,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "8",
+          "suit": "Clubs",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 7,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--clubs"
+          >
+                    8
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Clubs"
+          />
+</figure>,
+        "_debugID": 14,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--clubs"
+          >
+                    8
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Clubs"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="8"
+    suit="Clubs"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of 8 of Diamonds. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--diamonds"
+    >
+        8
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Diamonds"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--diamonds"
+      >
+            8
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Diamonds"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="8"
+        suit="Diamonds"
+/>,
+      "_debugID": 91,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "8",
+          "suit": "Diamonds",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 46,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--diamonds"
+          >
+                    8
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Diamonds"
+          />
+</figure>,
+        "_debugID": 92,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--diamonds"
+          >
+                    8
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Diamonds"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="8"
+    suit="Diamonds"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of 8 of Hearts. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--hearts"
+    >
+        8
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Hearts"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--hearts"
+      >
+            8
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Hearts"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="8"
+        suit="Hearts"
+/>,
+      "_debugID": 65,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "8",
+          "suit": "Hearts",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 33,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--hearts"
+          >
+                    8
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Hearts"
+          />
+</figure>,
+        "_debugID": 66,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--hearts"
+          >
+                    8
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Hearts"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="8"
+    suit="Hearts"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of 8 of Spades. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--spades"
+    >
+        8
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Spades"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--spades"
+      >
+            8
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Spades"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="8"
+        suit="Spades"
+/>,
+      "_debugID": 39,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "8",
+          "suit": "Spades",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 20,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--spades"
+          >
+                    8
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Spades"
+          />
+</figure>,
+        "_debugID": 40,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--spades"
+          >
+                    8
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Spades"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="8"
+    suit="Spades"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of 9 of Clubs. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--clubs"
+    >
+        9
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Clubs"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--clubs"
+      >
+            9
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Clubs"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="9"
+        suit="Clubs"
+/>,
+      "_debugID": 15,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "9",
+          "suit": "Clubs",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 8,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--clubs"
+          >
+                    9
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Clubs"
+          />
+</figure>,
+        "_debugID": 16,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--clubs"
+          >
+                    9
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Clubs"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="9"
+    suit="Clubs"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of 9 of Diamonds. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--diamonds"
+    >
+        9
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Diamonds"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--diamonds"
+      >
+            9
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Diamonds"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="9"
+        suit="Diamonds"
+/>,
+      "_debugID": 93,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "9",
+          "suit": "Diamonds",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 47,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--diamonds"
+          >
+                    9
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Diamonds"
+          />
+</figure>,
+        "_debugID": 94,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--diamonds"
+          >
+                    9
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Diamonds"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="9"
+    suit="Diamonds"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of 9 of Hearts. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--hearts"
+    >
+        9
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Hearts"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--hearts"
+      >
+            9
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Hearts"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="9"
+        suit="Hearts"
+/>,
+      "_debugID": 67,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "9",
+          "suit": "Hearts",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 34,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--hearts"
+          >
+                    9
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Hearts"
+          />
+</figure>,
+        "_debugID": 68,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--hearts"
+          >
+                    9
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Hearts"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="9"
+    suit="Hearts"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of 9 of Spades. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--spades"
+    >
+        9
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Spades"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--spades"
+      >
+            9
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Spades"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="9"
+        suit="Spades"
+/>,
+      "_debugID": 41,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "9",
+          "suit": "Spades",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 21,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--spades"
+          >
+                    9
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Spades"
+          />
+</figure>,
+        "_debugID": 42,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--spades"
+          >
+                    9
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Spades"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="9"
+    suit="Spades"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of 10 of Clubs. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--clubs"
+    >
+        10
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Clubs"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--clubs"
+      >
+            10
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Clubs"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="10"
+        suit="Clubs"
+/>,
+      "_debugID": 17,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "10",
+          "suit": "Clubs",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 9,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--clubs"
+          >
+                    10
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Clubs"
+          />
+</figure>,
+        "_debugID": 18,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--clubs"
+          >
+                    10
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Clubs"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="10"
+    suit="Clubs"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of 10 of Diamonds. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--diamonds"
+    >
+        10
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Diamonds"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--diamonds"
+      >
+            10
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Diamonds"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="10"
+        suit="Diamonds"
+/>,
+      "_debugID": 95,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "10",
+          "suit": "Diamonds",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 48,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--diamonds"
+          >
+                    10
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Diamonds"
+          />
+</figure>,
+        "_debugID": 96,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--diamonds"
+          >
+                    10
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Diamonds"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="10"
+    suit="Diamonds"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of 10 of Hearts. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--hearts"
+    >
+        10
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Hearts"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--hearts"
+      >
+            10
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Hearts"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="10"
+        suit="Hearts"
+/>,
+      "_debugID": 69,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "10",
+          "suit": "Hearts",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 35,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--hearts"
+          >
+                    10
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Hearts"
+          />
+</figure>,
+        "_debugID": 70,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--hearts"
+          >
+                    10
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Hearts"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="10"
+    suit="Hearts"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of 10 of Spades. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--spades"
+    >
+        10
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Spades"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--spades"
+      >
+            10
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Spades"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="10"
+        suit="Spades"
+/>,
+      "_debugID": 43,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "10",
+          "suit": "Spades",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 22,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--spades"
+          >
+                    10
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Spades"
+          />
+</figure>,
+        "_debugID": 44,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--spades"
+          >
+                    10
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Spades"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="10"
+    suit="Spades"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of A of Clubs. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--clubs"
+    >
+        A
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Clubs"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--clubs"
+      >
+            A
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Clubs"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="A"
+        suit="Clubs"
+/>,
+      "_debugID": 25,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "A",
+          "suit": "Clubs",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 13,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--clubs"
+          >
+                    A
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Clubs"
+          />
+</figure>,
+        "_debugID": 26,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--clubs"
+          >
+                    A
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Clubs"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="A"
+    suit="Clubs"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of A of Diamonds. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--diamonds"
+    >
+        A
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Diamonds"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--diamonds"
+      >
+            A
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Diamonds"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="A"
+        suit="Diamonds"
+/>,
+      "_debugID": 103,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "A",
+          "suit": "Diamonds",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 52,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--diamonds"
+          >
+                    A
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Diamonds"
+          />
+</figure>,
+        "_debugID": 104,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--diamonds"
+          >
+                    A
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Diamonds"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="A"
+    suit="Diamonds"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of A of Hearts. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--hearts"
+    >
+        A
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Hearts"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--hearts"
+      >
+            A
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Hearts"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="A"
+        suit="Hearts"
+/>,
+      "_debugID": 77,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "A",
+          "suit": "Hearts",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 39,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--hearts"
+          >
+                    A
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Hearts"
+          />
+</figure>,
+        "_debugID": 78,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--hearts"
+          >
+                    A
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Hearts"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="A"
+    suit="Hearts"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of A of Spades. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--spades"
+    >
+        A
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Spades"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--spades"
+      >
+            A
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Spades"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="A"
+        suit="Spades"
+/>,
+      "_debugID": 51,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "A",
+          "suit": "Spades",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 26,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--spades"
+          >
+                    A
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Spades"
+          />
+</figure>,
+        "_debugID": 52,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--spades"
+          >
+                    A
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Spades"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="A"
+    suit="Spades"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of J of Clubs. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--clubs"
+    >
+        J
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Clubs"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--clubs"
+      >
+            J
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Clubs"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="J"
+        suit="Clubs"
+/>,
+      "_debugID": 19,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "J",
+          "suit": "Clubs",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 10,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--clubs"
+          >
+                    J
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Clubs"
+          />
+</figure>,
+        "_debugID": 20,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--clubs"
+          >
+                    J
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Clubs"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="J"
+    suit="Clubs"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of J of Diamonds. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--diamonds"
+    >
+        J
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Diamonds"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--diamonds"
+      >
+            J
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Diamonds"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="J"
+        suit="Diamonds"
+/>,
+      "_debugID": 97,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "J",
+          "suit": "Diamonds",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 49,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--diamonds"
+          >
+                    J
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Diamonds"
+          />
+</figure>,
+        "_debugID": 98,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--diamonds"
+          >
+                    J
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Diamonds"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="J"
+    suit="Diamonds"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of J of Hearts. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--hearts"
+    >
+        J
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Hearts"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--hearts"
+      >
+            J
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Hearts"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="J"
+        suit="Hearts"
+/>,
+      "_debugID": 71,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "J",
+          "suit": "Hearts",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 36,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--hearts"
+          >
+                    J
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Hearts"
+          />
+</figure>,
+        "_debugID": 72,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--hearts"
+          >
+                    J
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Hearts"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="J"
+    suit="Hearts"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of J of Spades. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--spades"
+    >
+        J
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Spades"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--spades"
+      >
+            J
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Spades"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="J"
+        suit="Spades"
+/>,
+      "_debugID": 45,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "J",
+          "suit": "Spades",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 23,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--spades"
+          >
+                    J
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Spades"
+          />
+</figure>,
+        "_debugID": 46,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--spades"
+          >
+                    J
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Spades"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="J"
+    suit="Spades"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of K of Clubs. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--clubs"
+    >
+        K
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Clubs"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--clubs"
+      >
+            K
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Clubs"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="K"
+        suit="Clubs"
+/>,
+      "_debugID": 23,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "K",
+          "suit": "Clubs",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 12,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--clubs"
+          >
+                    K
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Clubs"
+          />
+</figure>,
+        "_debugID": 24,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--clubs"
+          >
+                    K
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Clubs"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="K"
+    suit="Clubs"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of K of Diamonds. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--diamonds"
+    >
+        K
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Diamonds"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--diamonds"
+      >
+            K
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Diamonds"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="K"
+        suit="Diamonds"
+/>,
+      "_debugID": 101,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "K",
+          "suit": "Diamonds",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 51,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--diamonds"
+          >
+                    K
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Diamonds"
+          />
+</figure>,
+        "_debugID": 102,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--diamonds"
+          >
+                    K
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Diamonds"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="K"
+    suit="Diamonds"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of K of Hearts. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--hearts"
+    >
+        K
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Hearts"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--hearts"
+      >
+            K
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Hearts"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="K"
+        suit="Hearts"
+/>,
+      "_debugID": 75,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "K",
+          "suit": "Hearts",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 38,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--hearts"
+          >
+                    K
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Hearts"
+          />
+</figure>,
+        "_debugID": 76,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--hearts"
+          >
+                    K
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Hearts"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="K"
+    suit="Hearts"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of K of Spades. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--spades"
+    >
+        K
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Spades"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--spades"
+      >
+            K
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Spades"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="K"
+        suit="Spades"
+/>,
+      "_debugID": 49,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "K",
+          "suit": "Spades",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 25,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--spades"
+          >
+                    K
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Spades"
+          />
+</figure>,
+        "_debugID": 50,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--spades"
+          >
+                    K
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Spades"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="K"
+    suit="Spades"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of Q of Clubs. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--clubs"
+    >
+        Q
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Clubs"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--clubs"
+      >
+            Q
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Clubs"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="Q"
+        suit="Clubs"
+/>,
+      "_debugID": 21,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "Q",
+          "suit": "Clubs",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 11,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--clubs"
+          >
+                    Q
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Clubs"
+          />
+</figure>,
+        "_debugID": 22,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--clubs"
+          >
+                    Q
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Clubs"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="Q"
+    suit="Clubs"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of Q of Diamonds. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--diamonds"
+    >
+        Q
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Diamonds"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--diamonds"
+      >
+            Q
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Diamonds"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="Q"
+        suit="Diamonds"
+/>,
+      "_debugID": 99,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "Q",
+          "suit": "Diamonds",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 50,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--diamonds"
+          >
+                    Q
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Diamonds"
+          />
+</figure>,
+        "_debugID": 100,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--diamonds"
+          >
+                    Q
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Diamonds"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="Q"
+    suit="Diamonds"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of Q of Hearts. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--hearts"
+    >
+        Q
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Hearts"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--hearts"
+      >
+            Q
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Hearts"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="Q"
+        suit="Hearts"
+/>,
+      "_debugID": 73,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "Q",
+          "suit": "Hearts",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 37,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--hearts"
+          >
+                    Q
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Hearts"
+          />
+</figure>,
+        "_debugID": 74,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--hearts"
+          >
+                    Q
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Hearts"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="Q"
+    suit="Hearts"
+/>,
+}
+`;
+
+exports[`Card component Should render a Card component with a value of Q of Spades. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <figure
+    className="m-card"
+>
+    <figcaption
+        className="m-card__number--spades"
+    >
+        Q
+    </figcaption>
+    <Icon
+        className="m-card__suit"
+        icon="Spades"
+    />
+</figure>,
+  "nodes": Array [
+    <figure
+      className="m-card"
+>
+      <figcaption
+            className="m-card__number--spades"
+      >
+            Q
+      </figcaption>
+      <Icon
+            className="m-card__suit"
+            icon="Spades"
+      />
+</figure>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Card
+        number="Q"
+        suit="Spades"
+/>,
+      "_debugID": 47,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "number": "Q",
+          "suit": "Spades",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 24,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--spades"
+          >
+                    Q
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Spades"
+          />
+</figure>,
+        "_debugID": 48,
+        "_renderedOutput": <figure
+          className="m-card"
+>
+          <figcaption
+                    className="m-card__number--spades"
+          >
+                    Q
+          </figcaption>
+          <Icon
+                    className="m-card__suit"
+                    icon="Spades"
+          />
+</figure>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Card
+    number="Q"
+    suit="Spades"
+/>,
+}
+`;

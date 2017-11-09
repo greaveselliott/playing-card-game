@@ -1,0 +1,53 @@
+@import '../../variables.scss';
+
+.m-card {
+    background-color: white;
+    border: 7px solid #FFFFFF;
+    box-sizing: border-box;
+    box-shadow: 2px 2px 0px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    display: inline-flex;
+    height: 70px;
+    width: 50px;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+
+    // @media (max-width: map-get($media-query, 'small')) {
+    //     border-radius: 5px;
+    //     height: 40px;
+    //     width: 25px;
+    // }
+}
+
+[class*="m-card__number"] {
+    width: 100%;
+    text-align: left;
+    position: relative;
+    right: 2px;
+    bottom: 2px;
+    font-size: 12px;
+    font-family: 'Mitr';
+    flex-shrink: 0;
+    margin-bottom: 3px;
+
+    &[class*="--hearts"],&[class*="--diamonds"] {
+        color: #E64C3C;
+    }
+
+    &[class*="--spades"],&[class*="--clubs"] {
+        color: #2C2F38;        
+    }
+
+    @media (max-width: map-get($media-query, 'small')) {
+        text-align: center;
+    }
+}
+
+.m-card__suit {
+    width: 28px;
+
+    // @media (max-width: map-get($media-query, 'small')) {
+    //     width: 14px;
+    // }
+}

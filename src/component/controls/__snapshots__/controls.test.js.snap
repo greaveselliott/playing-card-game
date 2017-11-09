@@ -1,0 +1,161 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Controls component Should render a Controls component. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <div
+    className="o-controls"
+>
+    <Connect(ButtonDraw)
+        class_name="o-controls__button"
+    />
+    <Button
+        class_name="o-controls__button--shuffle-deck"
+        click_handler={[Function]}
+        text="Shuffle deck"
+    />
+    <Button
+        class_name="o-controls__button--sort-hand"
+        click_handler={[Function]}
+        text="Sort cards by suit"
+    />
+    <Button
+        class_name="o-controls__button--shuffle-hand"
+        click_handler={[Function]}
+        text="Shuffle hand"
+    />
+</div>,
+  "nodes": Array [
+    <div
+      className="o-controls"
+>
+      <Connect(ButtonDraw)
+            class_name="o-controls__button"
+      />
+      <Button
+            class_name="o-controls__button--shuffle-deck"
+            click_handler={[Function]}
+            text="Shuffle deck"
+      />
+      <Button
+            class_name="o-controls__button--sort-hand"
+            click_handler={[Function]}
+            text="Sort cards by suit"
+      />
+      <Button
+            class_name="o-controls__button--shuffle-hand"
+            click_handler={[Function]}
+            text="Shuffle hand"
+      />
+</div>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <Controls
+        on_shuffle_deck={[Function]}
+        on_shuffle_hand={[Function]}
+        on_sort_hand={[Function]}
+/>,
+      "_debugID": 13,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "on_shuffle_deck": [Function],
+          "on_shuffle_hand": [Function],
+          "on_sort_hand": [Function],
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 7,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <div
+          className="o-controls"
+>
+          <Connect(ButtonDraw)
+                    class_name="o-controls__button"
+          />
+          <Button
+                    class_name="o-controls__button--shuffle-deck"
+                    click_handler={[Function]}
+                    text="Shuffle deck"
+          />
+          <Button
+                    class_name="o-controls__button--sort-hand"
+                    click_handler={[Function]}
+                    text="Sort cards by suit"
+          />
+          <Button
+                    class_name="o-controls__button--shuffle-hand"
+                    click_handler={[Function]}
+                    text="Shuffle hand"
+          />
+</div>,
+        "_debugID": 14,
+        "_renderedOutput": <div
+          className="o-controls"
+>
+          <Connect(ButtonDraw)
+                    class_name="o-controls__button"
+          />
+          <Button
+                    class_name="o-controls__button--shuffle-deck"
+                    click_handler={[Function]}
+                    text="Shuffle deck"
+          />
+          <Button
+                    class_name="o-controls__button--sort-hand"
+                    click_handler={[Function]}
+                    text="Sort cards by suit"
+          />
+          <Button
+                    class_name="o-controls__button--shuffle-hand"
+                    click_handler={[Function]}
+                    text="Shuffle hand"
+          />
+</div>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Controls
+    on_shuffle_deck={[Function]}
+    on_shuffle_hand={[Function]}
+    on_sort_hand={[Function]}
+/>,
+}
+`;

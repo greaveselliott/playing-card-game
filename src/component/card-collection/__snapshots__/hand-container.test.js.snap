@@ -1,0 +1,238 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Hand container. Should render an Deck Container. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <CardCollection
+    cards={
+        Array [
+            Object {
+              "id": 6,
+              "number": "8",
+              "suit": "Clubs",
+            },
+            Object {
+              "id": 29,
+              "number": "5",
+              "suit": "Hearts",
+            },
+            Object {
+              "id": 3,
+              "number": "5",
+              "suit": "Clubs",
+            },
+          ]
+    }
+    dispatch={[Function]}
+/>,
+  "nodes": Array [
+    <CardCollection
+      cards={
+            Array [
+                  Object {
+                    "id": 6,
+                    "number": "8",
+                    "suit": "Clubs",
+                  },
+                  Object {
+                    "id": 29,
+                    "number": "5",
+                    "suit": "Hearts",
+                  },
+                  Object {
+                    "id": 3,
+                    "number": "5",
+                    "suit": "Clubs",
+                  },
+                ]
+      }
+      dispatch={[Function]}
+/>,
+  ],
+  "options": Object {
+    "context": Object {
+      "store": Object {
+        "dispatch": [Function],
+        "getAction": [Function],
+        "getActions": [Function],
+        "getState": [Function],
+        "isActionDispatched": [Function],
+        "isActionTypeDispatched": [Function],
+        "subscribe": [Function],
+      },
+    },
+  },
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 0,
+      "_context": Object {
+        "store": Object {
+          "dispatch": [Function],
+          "getAction": [Function],
+          "getActions": [Function],
+          "getState": [Function],
+          "isActionDispatched": [Function],
+          "isActionTypeDispatched": [Function],
+          "subscribe": [Function],
+        },
+      },
+      "_currentElement": <Connect(CardCollection) />,
+      "_debugID": 1,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": Connect {
+        "_reactInternalInstance": [Circular],
+        "context": Object {
+          "store": Object {
+            "dispatch": [Function],
+            "getAction": [Function],
+            "getActions": [Function],
+            "getState": [Function],
+            "isActionDispatched": [Function],
+            "isActionTypeDispatched": [Function],
+            "subscribe": [Function],
+          },
+          "storeSubscription": undefined,
+        },
+        "notifyNestedSubs": [Function],
+        "props": Object {},
+        "propsMode": false,
+        "refs": Object {},
+        "renderCount": 0,
+        "selector": Object {
+          "error": null,
+          "props": Object {
+            "cards": Array [
+              Object {
+                "id": 6,
+                "number": "8",
+                "suit": "Clubs",
+              },
+              Object {
+                "id": 29,
+                "number": "5",
+                "suit": "Hearts",
+              },
+              Object {
+                "id": 3,
+                "number": "5",
+                "suit": "Clubs",
+              },
+            ],
+            "dispatch": [Function],
+          },
+          "run": [Function],
+          "shouldComponentUpdate": false,
+        },
+        "setWrappedInstance": [Function],
+        "state": Object {},
+        "store": Object {
+          "dispatch": [Function],
+          "getAction": [Function],
+          "getActions": [Function],
+          "getState": [Function],
+          "isActionDispatched": [Function],
+          "isActionTypeDispatched": [Function],
+          "subscribe": [Function],
+        },
+        "subscription": Subscription {
+          "listeners": Object {
+            "notify": [Function],
+          },
+          "onStateChange": [Function],
+          "parentSub": undefined,
+          "store": Object {
+            "dispatch": [Function],
+            "getAction": [Function],
+            "getActions": [Function],
+            "getState": [Function],
+            "isActionDispatched": [Function],
+            "isActionTypeDispatched": [Function],
+            "subscribe": [Function],
+          },
+          "unsubscribe": null,
+        },
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+        "version": 0,
+      },
+      "_mountOrder": 1,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <CardCollection
+          cards={
+                    Array [
+                              Object {
+                                "id": 6,
+                                "number": "8",
+                                "suit": "Clubs",
+                              },
+                              Object {
+                                "id": 29,
+                                "number": "5",
+                                "suit": "Hearts",
+                              },
+                              Object {
+                                "id": 3,
+                                "number": "5",
+                                "suit": "Clubs",
+                              },
+                            ]
+          }
+          dispatch={[Function]}
+/>,
+        "_debugID": 2,
+        "_renderedOutput": <CardCollection
+          cards={
+                    Array [
+                              Object {
+                                "id": 6,
+                                "number": "8",
+                                "suit": "Clubs",
+                              },
+                              Object {
+                                "id": 29,
+                                "number": "5",
+                                "suit": "Hearts",
+                              },
+                              Object {
+                                "id": 3,
+                                "number": "5",
+                                "suit": "Clubs",
+                              },
+                            ]
+          }
+          dispatch={[Function]}
+/>,
+      },
+      "_renderedNodeType": 1,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Connect(CardCollection) />,
+}
+`;

@@ -1,0 +1,27 @@
+[class*="a-button"] {
+    display: inline-block;
+    background-color: #6FCF97;
+    border-width: 4px;
+    border-style: solid;
+    border-color: #6FCF97;
+    border-radius: 50px;
+    cursor: pointer;
+    font-family: 'Mitr', sans-serif;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    min-height: 40px;
+    padding-top: 5px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 5px;
+    width: auto;
+    text-transform: uppercase;
+    letter-spacing: 0.09em;
+    transition: background-color 220ms ease-in, color 220ms ease-in, border-color 220ms ease-in;
+
+    &:hover {
+        background-color: lighten(#6FCF97, 5);
+        border-color: lighten(#6FCF97, 5);
+    }
+}

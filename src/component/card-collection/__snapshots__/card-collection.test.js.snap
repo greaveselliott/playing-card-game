@@ -1,0 +1,1587 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Deck component Should render a CardCollection component with cards. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <section
+    className="m-card-collection"
+>
+    <Heading
+        className="m-card-collection__title"
+        text="Mock heading"
+    />
+    <_class
+        className="m-card-collection__cards"
+        columnWidth={50}
+        columns={12}
+        duration={650}
+        easing="ease-out"
+        enter={[Function]}
+        entered={[Function]}
+        exit={[Function]}
+        gutterHeight={5}
+        gutterWidth={5}
+        itemHeight={70}
+        layout={[Function]}
+    >
+        <div>
+            <Card
+                number="4"
+                suit="Clubs"
+            />
+        </div>
+        <div>
+            <Card
+                number="2"
+                suit="Hearts"
+            />
+        </div>
+        <div>
+            <Card
+                number="6"
+                suit="Diamonds"
+            />
+        </div>
+        <div>
+            <Card
+                number="9"
+                suit="Spades"
+            />
+        </div>
+        <div>
+            <Card
+                number="Q"
+                suit="Spades"
+            />
+        </div>
+        <div>
+            <Card
+                number="Q"
+                suit="Hearts"
+            />
+        </div>
+        <div>
+            <Card
+                number="Q"
+                suit="Diamonds"
+            />
+        </div>
+        <div>
+            <Card
+                number="Q"
+                suit="Clubs"
+            />
+        </div>
+        <div>
+            <Card
+                number="K"
+                suit="Clubs"
+            />
+        </div>
+        <div>
+            <Card
+                number="3"
+                suit="Diamonds"
+            />
+        </div>
+        <div>
+            <Card
+                number="6"
+                suit="Spades"
+            />
+        </div>
+        <div>
+            <Card
+                number="4"
+                suit="Hearts"
+            />
+        </div>
+        <div>
+            <Card
+                number="J"
+                suit="Diamonds"
+            />
+        </div>
+        <div>
+            <Card
+                number="7"
+                suit="Spades"
+            />
+        </div>
+        <div>
+            <Card
+                number="A"
+                suit="Spades"
+            />
+        </div>
+        <div>
+            <Card
+                number="7"
+                suit="Clubs"
+            />
+        </div>
+        <div>
+            <Card
+                number="K"
+                suit="Spades"
+            />
+        </div>
+        <div>
+            <Card
+                number="6"
+                suit="Clubs"
+            />
+        </div>
+        <div>
+            <Card
+                number="8"
+                suit="Spades"
+            />
+        </div>
+        <div>
+            <Card
+                number="A"
+                suit="Hearts"
+            />
+        </div>
+    </_class>
+</section>,
+  "nodes": Array [
+    <section
+      className="m-card-collection"
+>
+      <Heading
+            className="m-card-collection__title"
+            text="Mock heading"
+      />
+      <_class
+            className="m-card-collection__cards"
+            columnWidth={50}
+            columns={12}
+            duration={650}
+            easing="ease-out"
+            enter={[Function]}
+            entered={[Function]}
+            exit={[Function]}
+            gutterHeight={5}
+            gutterWidth={5}
+            itemHeight={70}
+            layout={[Function]}
+      >
+            <div>
+                  <Card
+                        number="4"
+                        suit="Clubs"
+                  />
+            </div>
+            <div>
+                  <Card
+                        number="2"
+                        suit="Hearts"
+                  />
+            </div>
+            <div>
+                  <Card
+                        number="6"
+                        suit="Diamonds"
+                  />
+            </div>
+            <div>
+                  <Card
+                        number="9"
+                        suit="Spades"
+                  />
+            </div>
+            <div>
+                  <Card
+                        number="Q"
+                        suit="Spades"
+                  />
+            </div>
+            <div>
+                  <Card
+                        number="Q"
+                        suit="Hearts"
+                  />
+            </div>
+            <div>
+                  <Card
+                        number="Q"
+                        suit="Diamonds"
+                  />
+            </div>
+            <div>
+                  <Card
+                        number="Q"
+                        suit="Clubs"
+                  />
+            </div>
+            <div>
+                  <Card
+                        number="K"
+                        suit="Clubs"
+                  />
+            </div>
+            <div>
+                  <Card
+                        number="3"
+                        suit="Diamonds"
+                  />
+            </div>
+            <div>
+                  <Card
+                        number="6"
+                        suit="Spades"
+                  />
+            </div>
+            <div>
+                  <Card
+                        number="4"
+                        suit="Hearts"
+                  />
+            </div>
+            <div>
+                  <Card
+                        number="J"
+                        suit="Diamonds"
+                  />
+            </div>
+            <div>
+                  <Card
+                        number="7"
+                        suit="Spades"
+                  />
+            </div>
+            <div>
+                  <Card
+                        number="A"
+                        suit="Spades"
+                  />
+            </div>
+            <div>
+                  <Card
+                        number="7"
+                        suit="Clubs"
+                  />
+            </div>
+            <div>
+                  <Card
+                        number="K"
+                        suit="Spades"
+                  />
+            </div>
+            <div>
+                  <Card
+                        number="6"
+                        suit="Clubs"
+                  />
+            </div>
+            <div>
+                  <Card
+                        number="8"
+                        suit="Spades"
+                  />
+            </div>
+            <div>
+                  <Card
+                        number="A"
+                        suit="Hearts"
+                  />
+            </div>
+      </_class>
+</section>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <CardCollection
+        cards={
+                Array [
+                        Object {
+                          "id": 2,
+                          "number": "4",
+                          "suit": "Clubs",
+                        },
+                        Object {
+                          "id": 26,
+                          "number": "2",
+                          "suit": "Hearts",
+                        },
+                        Object {
+                          "id": 43,
+                          "number": "6",
+                          "suit": "Diamonds",
+                        },
+                        Object {
+                          "id": 20,
+                          "number": "9",
+                          "suit": "Spades",
+                        },
+                        Object {
+                          "id": 23,
+                          "number": "Q",
+                          "suit": "Spades",
+                        },
+                        Object {
+                          "id": 36,
+                          "number": "Q",
+                          "suit": "Hearts",
+                        },
+                        Object {
+                          "id": 49,
+                          "number": "Q",
+                          "suit": "Diamonds",
+                        },
+                        Object {
+                          "id": 10,
+                          "number": "Q",
+                          "suit": "Clubs",
+                        },
+                        Object {
+                          "id": 11,
+                          "number": "K",
+                          "suit": "Clubs",
+                        },
+                        Object {
+                          "id": 40,
+                          "number": "3",
+                          "suit": "Diamonds",
+                        },
+                        Object {
+                          "id": 17,
+                          "number": "6",
+                          "suit": "Spades",
+                        },
+                        Object {
+                          "id": 28,
+                          "number": "4",
+                          "suit": "Hearts",
+                        },
+                        Object {
+                          "id": 48,
+                          "number": "J",
+                          "suit": "Diamonds",
+                        },
+                        Object {
+                          "id": 18,
+                          "number": "7",
+                          "suit": "Spades",
+                        },
+                        Object {
+                          "id": 25,
+                          "number": "A",
+                          "suit": "Spades",
+                        },
+                        Object {
+                          "id": 5,
+                          "number": "7",
+                          "suit": "Clubs",
+                        },
+                        Object {
+                          "id": 24,
+                          "number": "K",
+                          "suit": "Spades",
+                        },
+                        Object {
+                          "id": 4,
+                          "number": "6",
+                          "suit": "Clubs",
+                        },
+                        Object {
+                          "id": 19,
+                          "number": "8",
+                          "suit": "Spades",
+                        },
+                        Object {
+                          "id": 38,
+                          "number": "A",
+                          "suit": "Hearts",
+                        },
+                      ]
+        }
+        hand={
+                Array [
+                        Object {
+                          "id": 51,
+                          "number": "A",
+                          "suit": "Diamonds",
+                        },
+                        Object {
+                          "id": 50,
+                          "number": "K",
+                          "suit": "Diamonds",
+                        },
+                        Object {
+                          "id": 45,
+                          "number": "8",
+                          "suit": "Diamonds",
+                        },
+                        Object {
+                          "id": 41,
+                          "number": "4",
+                          "suit": "Diamonds",
+                        },
+                        Object {
+                          "id": 39,
+                          "number": "2",
+                          "suit": "Diamonds",
+                        },
+                        Object {
+                          "id": 34,
+                          "number": "10",
+                          "suit": "Hearts",
+                        },
+                        Object {
+                          "id": 33,
+                          "number": "9",
+                          "suit": "Hearts",
+                        },
+                        Object {
+                          "id": 31,
+                          "number": "7",
+                          "suit": "Hearts",
+                        },
+                        Object {
+                          "id": 30,
+                          "number": "6",
+                          "suit": "Hearts",
+                        },
+                        Object {
+                          "id": 27,
+                          "number": "3",
+                          "suit": "Hearts",
+                        },
+                        Object {
+                          "id": 21,
+                          "number": "10",
+                          "suit": "Spades",
+                        },
+                        Object {
+                          "id": 15,
+                          "number": "4",
+                          "suit": "Spades",
+                        },
+                        Object {
+                          "id": 14,
+                          "number": "3",
+                          "suit": "Spades",
+                        },
+                        Object {
+                          "id": 13,
+                          "number": "2",
+                          "suit": "Spades",
+                        },
+                        Object {
+                          "id": 12,
+                          "number": "A",
+                          "suit": "Clubs",
+                        },
+                        Object {
+                          "id": 8,
+                          "number": "10",
+                          "suit": "Clubs",
+                        },
+                        Object {
+                          "id": 7,
+                          "number": "9",
+                          "suit": "Clubs",
+                        },
+                        Object {
+                          "id": 1,
+                          "number": "3",
+                          "suit": "Clubs",
+                        },
+                        Object {
+                          "id": 37,
+                          "number": "K",
+                          "suit": "Hearts",
+                        },
+                        Object {
+                          "id": 0,
+                          "number": "2",
+                          "suit": "Clubs",
+                        },
+                        Object {
+                          "id": 42,
+                          "number": "5",
+                          "suit": "Diamonds",
+                        },
+                        Object {
+                          "id": 47,
+                          "number": "10",
+                          "suit": "Diamonds",
+                        },
+                        Object {
+                          "id": 32,
+                          "number": "8",
+                          "suit": "Hearts",
+                        },
+                        Object {
+                          "id": 46,
+                          "number": "9",
+                          "suit": "Diamonds",
+                        },
+                        Object {
+                          "id": 35,
+                          "number": "J",
+                          "suit": "Hearts",
+                        },
+                        Object {
+                          "id": 22,
+                          "number": "J",
+                          "suit": "Spades",
+                        },
+                        Object {
+                          "id": 9,
+                          "number": "J",
+                          "suit": "Clubs",
+                        },
+                        Object {
+                          "id": 44,
+                          "number": "7",
+                          "suit": "Diamonds",
+                        },
+                        Object {
+                          "id": 16,
+                          "number": "5",
+                          "suit": "Spades",
+                        },
+                        Object {
+                          "id": 6,
+                          "number": "8",
+                          "suit": "Clubs",
+                        },
+                        Object {
+                          "id": 29,
+                          "number": "5",
+                          "suit": "Hearts",
+                        },
+                        Object {
+                          "id": 3,
+                          "number": "5",
+                          "suit": "Clubs",
+                        },
+                      ]
+        }
+        heading="Mock heading"
+/>,
+      "_debugID": 3,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "cards": Array [
+            Object {
+              "id": 2,
+              "number": "4",
+              "suit": "Clubs",
+            },
+            Object {
+              "id": 26,
+              "number": "2",
+              "suit": "Hearts",
+            },
+            Object {
+              "id": 43,
+              "number": "6",
+              "suit": "Diamonds",
+            },
+            Object {
+              "id": 20,
+              "number": "9",
+              "suit": "Spades",
+            },
+            Object {
+              "id": 23,
+              "number": "Q",
+              "suit": "Spades",
+            },
+            Object {
+              "id": 36,
+              "number": "Q",
+              "suit": "Hearts",
+            },
+            Object {
+              "id": 49,
+              "number": "Q",
+              "suit": "Diamonds",
+            },
+            Object {
+              "id": 10,
+              "number": "Q",
+              "suit": "Clubs",
+            },
+            Object {
+              "id": 11,
+              "number": "K",
+              "suit": "Clubs",
+            },
+            Object {
+              "id": 40,
+              "number": "3",
+              "suit": "Diamonds",
+            },
+            Object {
+              "id": 17,
+              "number": "6",
+              "suit": "Spades",
+            },
+            Object {
+              "id": 28,
+              "number": "4",
+              "suit": "Hearts",
+            },
+            Object {
+              "id": 48,
+              "number": "J",
+              "suit": "Diamonds",
+            },
+            Object {
+              "id": 18,
+              "number": "7",
+              "suit": "Spades",
+            },
+            Object {
+              "id": 25,
+              "number": "A",
+              "suit": "Spades",
+            },
+            Object {
+              "id": 5,
+              "number": "7",
+              "suit": "Clubs",
+            },
+            Object {
+              "id": 24,
+              "number": "K",
+              "suit": "Spades",
+            },
+            Object {
+              "id": 4,
+              "number": "6",
+              "suit": "Clubs",
+            },
+            Object {
+              "id": 19,
+              "number": "8",
+              "suit": "Spades",
+            },
+            Object {
+              "id": 38,
+              "number": "A",
+              "suit": "Hearts",
+            },
+          ],
+          "hand": Array [
+            Object {
+              "id": 51,
+              "number": "A",
+              "suit": "Diamonds",
+            },
+            Object {
+              "id": 50,
+              "number": "K",
+              "suit": "Diamonds",
+            },
+            Object {
+              "id": 45,
+              "number": "8",
+              "suit": "Diamonds",
+            },
+            Object {
+              "id": 41,
+              "number": "4",
+              "suit": "Diamonds",
+            },
+            Object {
+              "id": 39,
+              "number": "2",
+              "suit": "Diamonds",
+            },
+            Object {
+              "id": 34,
+              "number": "10",
+              "suit": "Hearts",
+            },
+            Object {
+              "id": 33,
+              "number": "9",
+              "suit": "Hearts",
+            },
+            Object {
+              "id": 31,
+              "number": "7",
+              "suit": "Hearts",
+            },
+            Object {
+              "id": 30,
+              "number": "6",
+              "suit": "Hearts",
+            },
+            Object {
+              "id": 27,
+              "number": "3",
+              "suit": "Hearts",
+            },
+            Object {
+              "id": 21,
+              "number": "10",
+              "suit": "Spades",
+            },
+            Object {
+              "id": 15,
+              "number": "4",
+              "suit": "Spades",
+            },
+            Object {
+              "id": 14,
+              "number": "3",
+              "suit": "Spades",
+            },
+            Object {
+              "id": 13,
+              "number": "2",
+              "suit": "Spades",
+            },
+            Object {
+              "id": 12,
+              "number": "A",
+              "suit": "Clubs",
+            },
+            Object {
+              "id": 8,
+              "number": "10",
+              "suit": "Clubs",
+            },
+            Object {
+              "id": 7,
+              "number": "9",
+              "suit": "Clubs",
+            },
+            Object {
+              "id": 1,
+              "number": "3",
+              "suit": "Clubs",
+            },
+            Object {
+              "id": 37,
+              "number": "K",
+              "suit": "Hearts",
+            },
+            Object {
+              "id": 0,
+              "number": "2",
+              "suit": "Clubs",
+            },
+            Object {
+              "id": 42,
+              "number": "5",
+              "suit": "Diamonds",
+            },
+            Object {
+              "id": 47,
+              "number": "10",
+              "suit": "Diamonds",
+            },
+            Object {
+              "id": 32,
+              "number": "8",
+              "suit": "Hearts",
+            },
+            Object {
+              "id": 46,
+              "number": "9",
+              "suit": "Diamonds",
+            },
+            Object {
+              "id": 35,
+              "number": "J",
+              "suit": "Hearts",
+            },
+            Object {
+              "id": 22,
+              "number": "J",
+              "suit": "Spades",
+            },
+            Object {
+              "id": 9,
+              "number": "J",
+              "suit": "Clubs",
+            },
+            Object {
+              "id": 44,
+              "number": "7",
+              "suit": "Diamonds",
+            },
+            Object {
+              "id": 16,
+              "number": "5",
+              "suit": "Spades",
+            },
+            Object {
+              "id": 6,
+              "number": "8",
+              "suit": "Clubs",
+            },
+            Object {
+              "id": 29,
+              "number": "5",
+              "suit": "Hearts",
+            },
+            Object {
+              "id": 3,
+              "number": "5",
+              "suit": "Clubs",
+            },
+          ],
+          "heading": "Mock heading",
+        },
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 2,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <section
+          className="m-card-collection"
+>
+          <Heading
+                    className="m-card-collection__title"
+                    text="Mock heading"
+          />
+          <_class
+                    className="m-card-collection__cards"
+                    columnWidth={50}
+                    columns={12}
+                    duration={650}
+                    easing="ease-out"
+                    enter={[Function]}
+                    entered={[Function]}
+                    exit={[Function]}
+                    gutterHeight={5}
+                    gutterWidth={5}
+                    itemHeight={70}
+                    layout={[Function]}
+          >
+                    <div>
+                              <Card
+                                        number="4"
+                                        suit="Clubs"
+                              />
+                    </div>
+                    <div>
+                              <Card
+                                        number="2"
+                                        suit="Hearts"
+                              />
+                    </div>
+                    <div>
+                              <Card
+                                        number="6"
+                                        suit="Diamonds"
+                              />
+                    </div>
+                    <div>
+                              <Card
+                                        number="9"
+                                        suit="Spades"
+                              />
+                    </div>
+                    <div>
+                              <Card
+                                        number="Q"
+                                        suit="Spades"
+                              />
+                    </div>
+                    <div>
+                              <Card
+                                        number="Q"
+                                        suit="Hearts"
+                              />
+                    </div>
+                    <div>
+                              <Card
+                                        number="Q"
+                                        suit="Diamonds"
+                              />
+                    </div>
+                    <div>
+                              <Card
+                                        number="Q"
+                                        suit="Clubs"
+                              />
+                    </div>
+                    <div>
+                              <Card
+                                        number="K"
+                                        suit="Clubs"
+                              />
+                    </div>
+                    <div>
+                              <Card
+                                        number="3"
+                                        suit="Diamonds"
+                              />
+                    </div>
+                    <div>
+                              <Card
+                                        number="6"
+                                        suit="Spades"
+                              />
+                    </div>
+                    <div>
+                              <Card
+                                        number="4"
+                                        suit="Hearts"
+                              />
+                    </div>
+                    <div>
+                              <Card
+                                        number="J"
+                                        suit="Diamonds"
+                              />
+                    </div>
+                    <div>
+                              <Card
+                                        number="7"
+                                        suit="Spades"
+                              />
+                    </div>
+                    <div>
+                              <Card
+                                        number="A"
+                                        suit="Spades"
+                              />
+                    </div>
+                    <div>
+                              <Card
+                                        number="7"
+                                        suit="Clubs"
+                              />
+                    </div>
+                    <div>
+                              <Card
+                                        number="K"
+                                        suit="Spades"
+                              />
+                    </div>
+                    <div>
+                              <Card
+                                        number="6"
+                                        suit="Clubs"
+                              />
+                    </div>
+                    <div>
+                              <Card
+                                        number="8"
+                                        suit="Spades"
+                              />
+                    </div>
+                    <div>
+                              <Card
+                                        number="A"
+                                        suit="Hearts"
+                              />
+                    </div>
+          </_class>
+</section>,
+        "_debugID": 4,
+        "_renderedOutput": <section
+          className="m-card-collection"
+>
+          <Heading
+                    className="m-card-collection__title"
+                    text="Mock heading"
+          />
+          <_class
+                    className="m-card-collection__cards"
+                    columnWidth={50}
+                    columns={12}
+                    duration={650}
+                    easing="ease-out"
+                    enter={[Function]}
+                    entered={[Function]}
+                    exit={[Function]}
+                    gutterHeight={5}
+                    gutterWidth={5}
+                    itemHeight={70}
+                    layout={[Function]}
+          >
+                    <div>
+                              <Card
+                                        number="4"
+                                        suit="Clubs"
+                              />
+                    </div>
+                    <div>
+                              <Card
+                                        number="2"
+                                        suit="Hearts"
+                              />
+                    </div>
+                    <div>
+                              <Card
+                                        number="6"
+                                        suit="Diamonds"
+                              />
+                    </div>
+                    <div>
+                              <Card
+                                        number="9"
+                                        suit="Spades"
+                              />
+                    </div>
+                    <div>
+                              <Card
+                                        number="Q"
+                                        suit="Spades"
+                              />
+                    </div>
+                    <div>
+                              <Card
+                                        number="Q"
+                                        suit="Hearts"
+                              />
+                    </div>
+                    <div>
+                              <Card
+                                        number="Q"
+                                        suit="Diamonds"
+                              />
+                    </div>
+                    <div>
+                              <Card
+                                        number="Q"
+                                        suit="Clubs"
+                              />
+                    </div>
+                    <div>
+                              <Card
+                                        number="K"
+                                        suit="Clubs"
+                              />
+                    </div>
+                    <div>
+                              <Card
+                                        number="3"
+                                        suit="Diamonds"
+                              />
+                    </div>
+                    <div>
+                              <Card
+                                        number="6"
+                                        suit="Spades"
+                              />
+                    </div>
+                    <div>
+                              <Card
+                                        number="4"
+                                        suit="Hearts"
+                              />
+                    </div>
+                    <div>
+                              <Card
+                                        number="J"
+                                        suit="Diamonds"
+                              />
+                    </div>
+                    <div>
+                              <Card
+                                        number="7"
+                                        suit="Spades"
+                              />
+                    </div>
+                    <div>
+                              <Card
+                                        number="A"
+                                        suit="Spades"
+                              />
+                    </div>
+                    <div>
+                              <Card
+                                        number="7"
+                                        suit="Clubs"
+                              />
+                    </div>
+                    <div>
+                              <Card
+                                        number="K"
+                                        suit="Spades"
+                              />
+                    </div>
+                    <div>
+                              <Card
+                                        number="6"
+                                        suit="Clubs"
+                              />
+                    </div>
+                    <div>
+                              <Card
+                                        number="8"
+                                        suit="Spades"
+                              />
+                    </div>
+                    <div>
+                              <Card
+                                        number="A"
+                                        suit="Hearts"
+                              />
+                    </div>
+          </_class>
+</section>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <CardCollection
+    cards={
+        Array [
+            Object {
+              "id": 2,
+              "number": "4",
+              "suit": "Clubs",
+            },
+            Object {
+              "id": 26,
+              "number": "2",
+              "suit": "Hearts",
+            },
+            Object {
+              "id": 43,
+              "number": "6",
+              "suit": "Diamonds",
+            },
+            Object {
+              "id": 20,
+              "number": "9",
+              "suit": "Spades",
+            },
+            Object {
+              "id": 23,
+              "number": "Q",
+              "suit": "Spades",
+            },
+            Object {
+              "id": 36,
+              "number": "Q",
+              "suit": "Hearts",
+            },
+            Object {
+              "id": 49,
+              "number": "Q",
+              "suit": "Diamonds",
+            },
+            Object {
+              "id": 10,
+              "number": "Q",
+              "suit": "Clubs",
+            },
+            Object {
+              "id": 11,
+              "number": "K",
+              "suit": "Clubs",
+            },
+            Object {
+              "id": 40,
+              "number": "3",
+              "suit": "Diamonds",
+            },
+            Object {
+              "id": 17,
+              "number": "6",
+              "suit": "Spades",
+            },
+            Object {
+              "id": 28,
+              "number": "4",
+              "suit": "Hearts",
+            },
+            Object {
+              "id": 48,
+              "number": "J",
+              "suit": "Diamonds",
+            },
+            Object {
+              "id": 18,
+              "number": "7",
+              "suit": "Spades",
+            },
+            Object {
+              "id": 25,
+              "number": "A",
+              "suit": "Spades",
+            },
+            Object {
+              "id": 5,
+              "number": "7",
+              "suit": "Clubs",
+            },
+            Object {
+              "id": 24,
+              "number": "K",
+              "suit": "Spades",
+            },
+            Object {
+              "id": 4,
+              "number": "6",
+              "suit": "Clubs",
+            },
+            Object {
+              "id": 19,
+              "number": "8",
+              "suit": "Spades",
+            },
+            Object {
+              "id": 38,
+              "number": "A",
+              "suit": "Hearts",
+            },
+          ]
+    }
+    hand={
+        Array [
+            Object {
+              "id": 51,
+              "number": "A",
+              "suit": "Diamonds",
+            },
+            Object {
+              "id": 50,
+              "number": "K",
+              "suit": "Diamonds",
+            },
+            Object {
+              "id": 45,
+              "number": "8",
+              "suit": "Diamonds",
+            },
+            Object {
+              "id": 41,
+              "number": "4",
+              "suit": "Diamonds",
+            },
+            Object {
+              "id": 39,
+              "number": "2",
+              "suit": "Diamonds",
+            },
+            Object {
+              "id": 34,
+              "number": "10",
+              "suit": "Hearts",
+            },
+            Object {
+              "id": 33,
+              "number": "9",
+              "suit": "Hearts",
+            },
+            Object {
+              "id": 31,
+              "number": "7",
+              "suit": "Hearts",
+            },
+            Object {
+              "id": 30,
+              "number": "6",
+              "suit": "Hearts",
+            },
+            Object {
+              "id": 27,
+              "number": "3",
+              "suit": "Hearts",
+            },
+            Object {
+              "id": 21,
+              "number": "10",
+              "suit": "Spades",
+            },
+            Object {
+              "id": 15,
+              "number": "4",
+              "suit": "Spades",
+            },
+            Object {
+              "id": 14,
+              "number": "3",
+              "suit": "Spades",
+            },
+            Object {
+              "id": 13,
+              "number": "2",
+              "suit": "Spades",
+            },
+            Object {
+              "id": 12,
+              "number": "A",
+              "suit": "Clubs",
+            },
+            Object {
+              "id": 8,
+              "number": "10",
+              "suit": "Clubs",
+            },
+            Object {
+              "id": 7,
+              "number": "9",
+              "suit": "Clubs",
+            },
+            Object {
+              "id": 1,
+              "number": "3",
+              "suit": "Clubs",
+            },
+            Object {
+              "id": 37,
+              "number": "K",
+              "suit": "Hearts",
+            },
+            Object {
+              "id": 0,
+              "number": "2",
+              "suit": "Clubs",
+            },
+            Object {
+              "id": 42,
+              "number": "5",
+              "suit": "Diamonds",
+            },
+            Object {
+              "id": 47,
+              "number": "10",
+              "suit": "Diamonds",
+            },
+            Object {
+              "id": 32,
+              "number": "8",
+              "suit": "Hearts",
+            },
+            Object {
+              "id": 46,
+              "number": "9",
+              "suit": "Diamonds",
+            },
+            Object {
+              "id": 35,
+              "number": "J",
+              "suit": "Hearts",
+            },
+            Object {
+              "id": 22,
+              "number": "J",
+              "suit": "Spades",
+            },
+            Object {
+              "id": 9,
+              "number": "J",
+              "suit": "Clubs",
+            },
+            Object {
+              "id": 44,
+              "number": "7",
+              "suit": "Diamonds",
+            },
+            Object {
+              "id": 16,
+              "number": "5",
+              "suit": "Spades",
+            },
+            Object {
+              "id": 6,
+              "number": "8",
+              "suit": "Clubs",
+            },
+            Object {
+              "id": 29,
+              "number": "5",
+              "suit": "Hearts",
+            },
+            Object {
+              "id": 3,
+              "number": "5",
+              "suit": "Clubs",
+            },
+          ]
+    }
+    heading="Mock heading"
+/>,
+}
+`;
+
+exports[`Deck component Should render an empty CardCollection component. 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <section
+    className="m-card-collection"
+>
+    <Heading
+        className="m-card-collection__title"
+        text={undefined}
+    />
+    <_class
+        className="m-card-collection__cards"
+        columnWidth={50}
+        columns={12}
+        duration={650}
+        easing="ease-out"
+        enter={[Function]}
+        entered={[Function]}
+        exit={[Function]}
+        gutterHeight={5}
+        gutterWidth={5}
+        itemHeight={70}
+        layout={[Function]}
+    />
+</section>,
+  "nodes": Array [
+    <section
+      className="m-card-collection"
+>
+      <Heading
+            className="m-card-collection__title"
+            text={undefined}
+      />
+      <_class
+            className="m-card-collection__cards"
+            columnWidth={50}
+            columns={12}
+            duration={650}
+            easing="ease-out"
+            enter={[Function]}
+            entered={[Function]}
+            exit={[Function]}
+            gutterHeight={5}
+            gutterWidth={5}
+            itemHeight={70}
+            layout={[Function]}
+      />
+</section>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 2,
+      "_context": Object {},
+      "_currentElement": <CardCollection />,
+      "_debugID": 1,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": StatelessComponent {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {},
+        "refs": Object {},
+        "state": null,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 1,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <section
+          className="m-card-collection"
+>
+          <Heading
+                    className="m-card-collection__title"
+                    text={undefined}
+          />
+          <_class
+                    className="m-card-collection__cards"
+                    columnWidth={50}
+                    columns={12}
+                    duration={650}
+                    easing="ease-out"
+                    enter={[Function]}
+                    entered={[Function]}
+                    exit={[Function]}
+                    gutterHeight={5}
+                    gutterWidth={5}
+                    itemHeight={70}
+                    layout={[Function]}
+          />
+</section>,
+        "_debugID": 2,
+        "_renderedOutput": <section
+          className="m-card-collection"
+>
+          <Heading
+                    className="m-card-collection__title"
+                    text={undefined}
+          />
+          <_class
+                    className="m-card-collection__cards"
+                    columnWidth={50}
+                    columns={12}
+                    duration={650}
+                    easing="ease-out"
+                    enter={[Function]}
+                    entered={[Function]}
+                    exit={[Function]}
+                    gutterHeight={5}
+                    gutterWidth={5}
+                    itemHeight={70}
+                    layout={[Function]}
+          />
+</section>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <CardCollection />,
+}
+`;

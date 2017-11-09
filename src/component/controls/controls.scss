@@ -1,0 +1,9 @@
+.o-controls {
+    text-align: center;
+}
+
+[class*="o-controls__button"] {
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 20px;
+}
